@@ -1,9 +1,9 @@
-var CACHE_NAME = '2022-02-28 01:00';
+var CACHE_NAME = '2022-04-24 11:20';
 var urlsToCache = [
   '/english-cheetsheet/',
   '/english-cheetsheet/index.js',
   '/english-cheetsheet/img/prepositions.webp',
-  '/english-cheetsheet/favicon/original.svg',
+  '/english-cheetsheet/favicon/favicon.svg',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css',
 ];
 
