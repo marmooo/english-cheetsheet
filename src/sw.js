@@ -1,10 +1,9 @@
-var CACHE_NAME = "2022-12-10 18:05";
+var CACHE_NAME = "2023-06-09 11:15";
 var urlsToCache = [
   '/english-cheetsheet/',
   '/english-cheetsheet/index.js',
   '/english-cheetsheet/img/prepositions.webp',
   '/english-cheetsheet/favicon/favicon.svg',
-  'https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css',
 ];
 
 self.addEventListener('install', function(event) {
